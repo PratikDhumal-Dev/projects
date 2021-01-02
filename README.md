@@ -1,3 +1,3 @@
 # projects
 
-Open master Branche Instead of Main to see my projects
+Open master Branch Instead of Main to see my projects
